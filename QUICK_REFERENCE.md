@@ -1,4 +1,4 @@
-# 🚀 NexaWorks Quick Reference Guide
+# NexaWorks Onboarding Quick Reference Guide
 
 ## One-Sentence Summary
 **NexaWorks** is an AI-powered employee onboarding platform that automates document tracking, predicts attrition risk, and provides HR analytics through a React frontend, Spring Boot backend, and Flask AI service.
@@ -27,16 +27,16 @@
 
 ## ✨ Core Features
 
-✅ **User Authentication** - JWT-based, stateless  
-✅ **Document Management** - 6 doc types (PAN, Aadhaar, etc)  
-✅ **Onboarding Tracking** - 0-100% progress with tasks  
-✅ **Attrition Risk Prediction** - ML model (0-100 score)  
-✅ **Sentiment Analysis** - NLP-powered feedback analysis  
-✅ **AI Chatbot** - Claude-powered (NexaBot)  
-✅ **Email Automation** - Risk alerts, reminders, notifications  
-✅ **Analytics Dashboard** - Charts, risk distribution, team metrics  
-✅ **Meeting Scheduler** - 1-on-1 and group meetings  
-✅ **Notification System** - In-app + email alerts  
+**User Authentication** - JWT-based, stateless  
+**Document Management** - 6 doc types (PAN, Aadhaar, etc)  
+**Onboarding Tracking** - 0-100% progress with tasks  
+**Attrition Risk Prediction** - ML model (0-100 score)  
+**Sentiment Analysis** - NLP-powered feedback analysis  
+**AI Chatbot** - Claude-powered (NexaBot)  
+**Email Automation** - Risk alerts, reminders, notifications  
+**Analytics Dashboard** - Charts, risk distribution, team metrics  
+**Meeting Scheduler** - 1-on-1 and group meetings  
+**Notification System** - In-app + email alerts  
 
 ---
 
@@ -51,9 +51,9 @@ Weighted formula:
 - Document Completeness (10%)
 
 **Categories:**
-- 0-30: Low Risk ✅
-- 31-65: Medium Risk ⚠️
-- 66-100: High Risk 🚨 (alerts sent)
+- 0-30: Low Risk 
+- 31-65: Medium Risk 
+- 66-100: High Risk (alerts sent)
 
 ### **Sentiment Analysis**
 - Input: Employee feedback text
@@ -150,7 +150,7 @@ onboarding-platform/
 
 ---
 
-## 🚀 Quick Start (3 Commands)
+## Quick Start (3 Commands)
 
 ```bash
 # Terminal 1: Backend
@@ -199,7 +199,7 @@ cd frontend && npm install && npm run dev
 
 ---
 
-## 🎯 Business Impact
+##  Business Impact
 
 | Metric | Impact |
 |--------|--------|
