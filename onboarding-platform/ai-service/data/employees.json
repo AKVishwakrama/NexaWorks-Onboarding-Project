@@ -1,0 +1,60 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@nexaworks.in",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "joining_date": "2024-03-15",
+    "experience_years": 2,
+    "engagement_score": 75,
+    "task_completion": 60,
+    "login_frequency": 6,
+    "sentiment_score": 0.7,
+    "onboarding_complete": false,
+    "feedback": "The onboarding process is going well, but I need more guidance on the codebase.",
+    "documents": {
+      "pan_card": true,
+      "aadhaar_card": true,
+      "voter_id": false,
+      "passport": true,
+      "salary_slip": false,
+      "offer_letter": true,
+      "tenth_cert": true,
+      "twelfth_cert": true,
+      "degree_cert": true,
+      "experience_letter": false,
+      "relieving_letter": false,
+      "photo": true
+    }
+  },
+  {
+    "id": "EMP002",
+    "name": "Priya Patel",
+    "email": "priya.patel@nexaworks.in",
+    "department": "HR",
+    "role": "HR Specialist",
+    "joining_date": "2024-02-20",
+    "experience_years": 4,
+    "engagement_score": 85,
+    "task_completion": 80,
+    "login_frequency": 7,
+    "sentiment_score": 0.8,
+    "onboarding_complete": true,
+    "feedback": "Excellent onboarding experience! The team is very supportive.",
+    "documents": {
+      "pan_card": true,
+      "aadhaar_card": true,
+      "voter_id": true,
+      "passport": false,
+      "salary_slip": true,
+      "offer_letter": true,
+      "tenth_cert": true,
+      "twelfth_cert": true,
+      "degree_cert": true,
+      "experience_letter": true,
+      "relieving_letter": true,
+      "photo": true
+    }
+  }
+]
