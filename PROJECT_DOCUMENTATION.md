@@ -666,7 +666,7 @@ POST   /api/recommendations
 
 ---
 
-## 🚀 Deployment & Running
+##  Deployment & Running
 
 ### **1. Backend (Spring Boot)**
 ```bash
